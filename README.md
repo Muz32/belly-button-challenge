@@ -9,6 +9,6 @@ In the top left corner of the dashboard, there is a dropdown menu under "Test Su
 # Files and Folders
 - `index.html`: The main HTML file that contains the structure of the dashboard and links to the JavaScript files for functionality.
 - `samples.json`: Copy of Dataset used for the visualizations.
-  - `static`
-    - `js`
+  - `static`(folder)
+    - `js`(folder)
       - `app.js`: JavaScript code for rendering the visualizations on the dashboard.
