@@ -113,9 +113,14 @@ function init() {
     // Build charts and metadata panel with the first sample
     buildCharts(firstSample);
     buildMetadata(firstSample);
-  });
+ 
+  // Change background color of 'Demographic Info' 
+  d3.select(".card.card-primary").style("background-color", "steelblue");
+  d3.select(".card.card-primary h4.card-title").style("color", "white");
+  d3.select("#sample-metadata").style("background-color", "lightgrey");
+ 
+});
 }
-  
 // Function for event listener
 function optionChanged(newSample) {
   // Build charts and metadata panel each time a new sample is selected
