@@ -12,3 +12,6 @@ In the top left corner of the dashboard, there is a dropdown menu under "Test Su
   - `static`(folder)
     - `js`(folder)
       - `app.js`: JavaScript code for rendering the visualizations on the dashboard.
+
+# Source of Data
+The data was provided by **edX Boot Camps LLC** and sourced from **The Public Science Lab, Department of Applied Ecology, North Carolina State University**. For more information, please visit the [Rob Dunn Lab's Belly Button Biodiversity project page](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data)
