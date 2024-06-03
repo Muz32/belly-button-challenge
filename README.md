@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-In this assignment challenge, I built an interactive dashboard for data visualizations using JavaScript. This involved utilizing the JavaScript libraries Plotly and D3 (Data-Driven Documents). The dashboard dynamically represents data from a study examining microbial species found in human navel samples. Further information about the dataset can be found on the following webpage: https://robdunnlab.com/projects/belly-button-biodiversity/.
+In this assignment challenge, I built an interactive dashboard for data visualizations using JavaScript. This involved utilizing the JavaScript libraries Plotly and D3 (Data-Driven Documents). The dashboard dynamically represents data from a study examining microbial species found in human navel samples. For more information, please visit the [Rob Dunn Lab's Belly Button Biodiversity project page](https://robdunnlab.com/projects/belly-button-biodiversity).
 
 # App deployment on GitHub
 The interactive dashboard for the visualisations can be accessed via the following link: https://muz32.github.io/belly-button-challenge/.
@@ -14,4 +14,5 @@ In the top left corner of the dashboard, there is a dropdown menu under "Test Su
       - `app.js`: JavaScript code for rendering the visualizations on the dashboard.
 
 # Source of Data
-The data was provided by **edX Boot Camps LLC** and sourced from **The Public Science Lab, Department of Applied Ecology, North Carolina State University**. For more information, please visit the [Rob Dunn Lab's Belly Button Biodiversity project page](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data)
+The data was provided by **edX Boot Camps LLC** and sourced from **The Public Science Lab, Department of Applied Ecology, North Carolina State University**.  Further information about the dataset can be found on the following webpage:https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data
+
