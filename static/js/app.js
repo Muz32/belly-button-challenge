@@ -81,8 +81,7 @@ function buildCharts(sample) {
       margin: { t: 30, l: 150 },
       xaxis: { title: 'Number of Bacteria' }
     };
-    // Don't forget to slice and reverse the input data appropriately
-
+  
 
     // Render the Bar Chart
     Plotly.newPlot('bar', barData, barLayout);
@@ -127,7 +126,6 @@ function optionChanged(newSample) {
   buildCharts(newSample);
   buildMetadata(newSample);
 }
-
 
 // Initialise the dashboard
 init();
