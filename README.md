@@ -2,9 +2,13 @@
 
 In this assignment challenge, I built an interactive dashboard for data visualizations using JavaScript. This involved utilizing the JavaScript libraries Plotly and D3 (Data-Driven Documents). The dashboard dynamically represents data from a study examining microbial species found in human navel samples. For more information, please visit the [Rob Dunn Lab's Belly Button Biodiversity project page](https://robdunnlab.com/projects/belly-button-biodiversity).
 
-# App deployment on GitHub
-The interactive dashboard for the visualisations can be accessed via the following link: https://muz32.github.io/belly-button-challenge/.
-In the top left corner of the dashboard, there is a dropdown menu under "Test Subject ID Number:". In this menu, datasets can be selected based on different samples related to the people who participated in the experimental study. Selecting a Test Subject ID Number will immediately provide demographic information about the person, as well as a bar chart and bubble chart presenting the top 10 types and quantities of bacteria present in the sample size for that person. The charts and demographic information on the dashboard update as soon as a different Test Subject ID Number is selected.
+# Interactive Dashboard Access
+ For an immersive experience, explore the data visualizations on the [Belly Button Biodiversity Dashboard](https://muz32.github.io/belly-button-challenge).
+
+**Navigating the Dashboard**:
+- **Test Subject ID Number**: Located in the top left corner, the dropdown menu allows you to select different datasets corresponding to the participants of the study.
+- **Instant Data Visualization**: Upon selecting an ID number, the dashboard will display the participant's demographic details, along with a bar chart and bubble chart showcasing the top 10 types and quantities of bacteria present in the sample size for that participant. 
+- **Dynamic Updates**: The visualizations and information dynamically update with each new selection, providing a seamless exploration of the data.
 
 # Files and Folders
 - `index.html`: The main HTML file that contains the structure of the dashboard and links to the JavaScript files for functionality.
